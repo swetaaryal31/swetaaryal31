@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Sweta Aryal</h1>
-<h3 align="center">A passionate web developer from Nepal, always exploring new tools and learning something new every day.</h3>
+<h3 align="center">Computer Science Student | Tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetaaryal31&label=Profile%20views&color=0e75b6&style=flat" alt="swetaaryal31" /> </p>
 
